@@ -1,0 +1,68 @@
+*{margin: 0;
+	padding: 0;
+	outline: 0;
+}
+.headersection{
+	background-color: lightblue;
+	min-height: 100px;
+}
+.headersection h1{
+	color: white; 
+	font-size: 40px;
+	padding-top: 30px;
+	text-align: center;
+	
+}
+.navigation{
+	background-color: skyblue;
+	min-height: 40px;
+	padding-top: 20px;
+	padding-right: 50px;
+	text-align: right;
+}
+.navigation a{
+	color: #ffff;
+	font-size: 20px;
+	margin-left: 30px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+.wrapper{
+overflow: hidden;
+}
+.contact{
+background-color: #90EE90;
+min-height: 400px;
+width: 50%;
+float: left;
+}
+.contact p{
+	color: white; 
+	font-size: 40px;
+	padding-top: 180px;
+	text-align: center;
+}
+.blog{
+	background-color: #98FB98;
+	min-height: 400px;
+	width: 50%;
+	float: right;
+
+}
+.blog p{
+
+	color: white; 
+	font-size: 40px;
+	padding-top: 180px;
+	text-align: center;
+}
+.footer{
+	background-color: tomato;
+	min-height: 100px;
+}
+.footer p{
+	color: white; 
+	font-size: 40px;
+	padding-top: 30px;
+	text-align: center;
+}
